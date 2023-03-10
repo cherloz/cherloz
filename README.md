@@ -1,16 +1,15 @@
-### Hi there 👋
+> http://localhost:8080/cesarhl/index.html
+> npx @11ty/eventy --server
 
-<!--
-**cherloz/cherloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Cesar Herrera
 
-Here are some ideas to get you started:
+## Perfil Profesional
+Estudiante de la carrera profesional **Ingeniería de Sistemas e informática**, con conocimientos en desarrollo de aplicaciones web y desktop, dominios de Microsoft office a nivel intermedio. Cuento con la facilidad de trabajar en equipo y realizar una comunicación efectiva.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Competencias
+* Java
+* Php
+* MySQL
+* Excel
+
+
